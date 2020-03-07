@@ -1,0 +1,2 @@
+all jars added in lib folder. just configure build path with lib folder, there is no need to setup deployment assembly.
+If all jars added manually from configure build path, then you have to add all jars in deployment assembly as well.
